@@ -3,4 +3,4 @@
 - 🎓 BSc in Informatics, specialization Interaction Design & 
 - 🎓 Accelerated Learning from Brights as a Java Developer. 
 - 🌱 I’m currently learning Javascript & Liferay Development
-- 📫 How to reach me --> raisajohanna.kemppainen@gmail.com
+
